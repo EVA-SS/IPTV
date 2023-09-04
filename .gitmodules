@@ -1,0 +1,6 @@
+[submodule "src/wcb1969/iptv"]
+	path = src/wcb1969/iptv
+	url = https://github.com/wcb1969/iptv
+[submodule "src/Free-TV/IPTV"]
+	path = src/Free-TV/IPTV
+	url = https://github.com/Free-TV/IPTV
